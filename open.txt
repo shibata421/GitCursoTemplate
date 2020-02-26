@@ -3,3 +3,8 @@ Este é o conteúdo do curso.
 
 Tradução do site para pt 2
 
+file 1
+file
+
+file 3
+file 4
