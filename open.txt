@@ -2,3 +2,5 @@ Este é o conteúdo do curso.
 
 
 Tradução do site para pt 2
+
+Vamos aprender git
